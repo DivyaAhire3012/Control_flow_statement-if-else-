@@ -1,3 +1,7 @@
+//Write a program to categorize a person based on gender and age: Male, age > 21 → Eligible for marriage .Female, age > 18 → Eligible for marriage
+//Otherwise, not eligible
+
+
 package Practice_code;
 
 import java.util.Scanner;
