@@ -1,3 +1,6 @@
+//Write a program to check whether a character is a vowel or consonant.
+
+
 package Practice_code;
 
 import java.util.Scanner;
