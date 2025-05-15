@@ -1,3 +1,5 @@
+//Write a program to find the largest of two numbers.
+
 package Practice_code;
 
 import java.util.Scanner;
